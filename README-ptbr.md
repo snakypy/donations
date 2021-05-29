@@ -37,4 +37,6 @@ Você pode escolher uma das formas abaixo:
 </table>
 </div>
 
+**NOTA:** Após a doação, crie uma [issue](https://github.com/snakypy/donations/issues) informando qual projeto você fez a doação e a data da doação, para que possamos ter o controle de qual projeto recebeu a doação.
+
 Obrigado por estar aqui. :smiley:
