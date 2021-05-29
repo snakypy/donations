@@ -35,7 +35,9 @@ Você pode escolher uma das formas abaixo clicando na imagem:
       <tr>
       <td></td>
       <td>Não têm? <a href="https://www.picpay.com/convite?PF4BCW" target="_blank">Crie</a> e receba R$ 20.</td>
-      <td></td>
+      <td>Não têm? <a href="https://nubank.com.br/indicacao/nu/?id=UOGZCLY2mWMAAAF5uWQb5A&msg=cb40c&utm_channel=social&utm_medium=referral&utm_source=mgm" target="_blank">Crie</a> e receba bônus</td>
+        
+        
       </tr>
    </tr>
   </tbody>
