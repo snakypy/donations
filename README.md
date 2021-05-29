@@ -37,4 +37,6 @@ You can choose one of the shapes below:
 </table>
 </div>
 
+**NOTE:** After the donation, create an [issue](https://github.com/snakypy/donations/issues) informing which project you made the donation and the date of the donation, so that we can have control of which project received the donation.
+
 Thank you just for being here. :smiley:
