@@ -4,7 +4,7 @@
 
 Aqui você pode fazer doações de qualquer quantia para manter [**Snakypy**](https://github.com/snakypy) ativo. O preço do café já nos ajuda. :coffee:
 
-Você pode escolher uma das formas abaixo:
+Você pode escolher uma das formas abaixo clicando na imagem:
 
 <div class="donation">
 <table border="1">
@@ -32,6 +32,11 @@ Você pode escolher uma das formas abaixo:
           <img width="auto" height="60" src="https://raw.githubusercontent.com/snakypy/donations/master/svg/banks/nubank.svg" alt="Nubank Donation">
        </a>
      </td>
+      <tr>
+      <td></td>
+      <td>Não têm? <a href="https://www.picpay.com/convite?PF4BCW" target="_blank">Crie</a> e receba R$ 20.</td>
+      <td></td>
+      </tr>
    </tr>
   </tbody>
 </table>
