@@ -48,4 +48,4 @@ Obrigado por estar aqui. :smiley:
 
 ## Doações USD
 
-Para fazer uma doação em USD acess: [International donation](https://github.com/snakypy/donations/blob/master/README.md)
+Para fazer doações na moeda USD, acess: [Donation USD](https://github.com/snakypy/donations/blob/master/README.md)
