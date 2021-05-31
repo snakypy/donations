@@ -29,6 +29,6 @@ You can choose one of the shapes below:
 
 ## How will you know if I donated here?
 
-After the donation, create an [issue](https://github.com/snakypy/donations/issues) informing which project you made the donation and the date of the donation, so that we can have control of which project received the donation.
+After the donation, create an [issue](https://github.com/snakypy/donations/issues) stating your name in the title, and in the description which project you made the donation and the date of the donation, so that we can have the control which project received the donation, and your name in the project's CONTRIBUTING.md.
 
 Thank you just for being here. :smiley:
