@@ -1,4 +1,4 @@
-[Read in English](https://github.com/snakypy/donations/blob/master/README.md)
+[International donation](https://github.com/snakypy/donations/blob/master/README.md)
 
 # Doações
 
