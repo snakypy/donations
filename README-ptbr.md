@@ -1,5 +1,3 @@
-[International donation](https://github.com/snakypy/donations/blob/master/README.md)
-
 # Doações
 
 Aqui você pode fazer doações de qualquer quantia para manter [**Snakypy**](https://github.com/snakypy) ativo. O preço do café já nos ajuda. :coffee:
@@ -47,3 +45,7 @@ Você pode escolher uma das formas abaixo clicando na imagem:
 Após a doação, crie uma [issue](https://github.com/snakypy/donations/issues) informando seu nome no título, e na descrição qual projeto você fez a doação e a data da doação, para que possamos ter o controle de qual projeto recebeu a doação, e colocar seu nome na CONTRIBUTING.md do projeto.
 
 Obrigado por estar aqui. :smiley:
+
+## Doações USD
+
+Para fazer uma doação em USD acess: [International donation](https://github.com/snakypy/donations/blob/master/README.md)
