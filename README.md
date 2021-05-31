@@ -11,8 +11,6 @@ You can choose one of the shapes below:
   <thead>
     <tr>
       <th>Using PayPal (USD)</th>
-      <th>Using PicPay (BRL)</th>
-      <th>Using Nubank (BRL)</th>
     </tr>
   </thead>
   <tbody>
@@ -22,21 +20,15 @@ You can choose one of the shapes below:
           <img src="https://raw.githubusercontent.com/snakypy/donations/master/svg/banks/paypal.svg" alt="PayPal Donation"
         </a>
       </td>
-      <td>
-        <a href="https://app.picpay.com/user/williamcanin" target="_blank">
-          <img width="120" height="40" src="https://raw.githubusercontent.com/snakypy/donations/master/svg/banks/picpay.svg" alt="PicPay Donation">
-       </a>
-     </td>
-     <td>
-        <a href="https://nubank.com.br/pagar/4hzmr/HNn2g3w1TI" target="_blank">
-          <img width="auto" height="60" src="https://raw.githubusercontent.com/snakypy/donations/master/svg/banks/nubank.svg" alt="Nubank Donation">
-       </a>
-     </td>
    </tr>
   </tbody>
 </table>
 </div>
 
-**NOTE:** After the donation, create an [issue](https://github.com/snakypy/donations/issues) informing which project you made the donation and the date of the donation, so that we can have control of which project received the donation.
+**NOTE:** For donations in Brazilian currency, access: [Donate BRL](https://github.com/snakypy/donations/blob/master/README-ptbr.md)
+
+## How will you know if I donated here?
+
+After the donation, create an [issue](https://github.com/snakypy/donations/issues) informing which project you made the donation and the date of the donation, so that we can have control of which project received the donation.
 
 Thank you just for being here. :smiley:
