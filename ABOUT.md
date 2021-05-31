@@ -9,7 +9,7 @@ To use, add the block below to the project's README.md:
 ```html
 ## Donation
 
-Click on the image below to be redirected the donation forms:
+Click on the image below to be redirected to ways other than **Github Sponsors** donations:
 
 <div class="donate">
   <a href="https://github.com/snakypy/donations/blob/master/README.md">
