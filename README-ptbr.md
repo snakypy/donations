@@ -37,8 +37,11 @@ Você pode escolher uma das formas abaixo clicando na imagem:
 
 Após a doação, crie uma [issue](https://github.com/snakypy/donations/issues) informando seu nome no título, e na descrição qual projeto você fez a doação e a data da doação, para que possamos ter o controle de qual projeto recebeu a doação, e colocar seu nome na CONTRIBUTING.md do projeto.
 
-Obrigado por estar aqui. :smiley:
-
 ## Doações USD
 
 Para fazer doações na moeda USD, acess: [Donate USD](https://github.com/snakypy/donations/blob/master/README.md)
+
+
+
+--------------------------------
+Obrigado por estar aqui. :smiley:
