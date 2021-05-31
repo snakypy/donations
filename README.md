@@ -25,10 +25,12 @@ You can choose one of the shapes below:
 </table>
 </div>
 
-**NOTE:** For donations in Brazilian currency, access: [Donate BRL](https://github.com/snakypy/donations/blob/master/README-ptbr.md)
-
 ## How will you know if I donated here?
 
 After the donation, create an [issue](https://github.com/snakypy/donations/issues) stating your name in the title, and in the description which project you made the donation and the date of the donation, so that we can have the control which project received the donation, and your name in the project's CONTRIBUTING.md.
 
 Thank you just for being here. :smiley:
+
+## Donation BRL
+
+For donations in Brazilian currency, access: [Donate BRL](https://github.com/snakypy/donations/blob/master/README-ptbr.md)
