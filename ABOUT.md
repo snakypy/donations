@@ -1,6 +1,6 @@
 # About
 
-The purpose of this repository is to incorporate donation options into the README.md of projects at [Snakypy](https://github.com/snakypy).
+The purpose of this repository is to incorporate donation options in the README.md of projects in [Snakypy](https://github.com/snakypy), with a different option from [Github Sponsors](https://github.com/sponsors).
 
 # Usage
 
