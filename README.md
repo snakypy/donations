@@ -31,4 +31,4 @@ Thank you just for being here. :smiley:
 
 ## Donation BRL
 
-For donations in **Brazilian** currency, access: [Donate BRL](https://github.com/snakypy/donations/blob/master/README-ptbr.md)
+For donations in `Brazilian` currency, access: [Donate BRL](https://github.com/snakypy/donations/blob/master/README-ptbr.md)
