@@ -23,7 +23,7 @@ You can choose one of the shapes below:
 </table>
 </div>
 
-## How will you know if I donated here?
+## How will you know I made the donation?
 
 After the donation, create an [issue](https://github.com/snakypy/donations/issues) stating your name in the title, and in the description which project you made the donation and the date of the donation, so that we can have the control which project received the donation, and your name in the project's CONTRIBUTING.md.
 
