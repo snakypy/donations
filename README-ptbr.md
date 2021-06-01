@@ -39,7 +39,7 @@ Após a doação, crie uma [issue](https://github.com/snakypy/donations/issues) 
 
 ## Doações USD
 
-Para fazer doações na moeda USD, acess: [Donate USD](https://github.com/snakypy/donations/blob/master/README.md)
+Para fazer doações na moeda USD, acesse: [Donate USD](https://github.com/snakypy/donations/blob/master/README.md)
 
 
 
