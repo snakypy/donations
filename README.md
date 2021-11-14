@@ -29,7 +29,7 @@ After the donation, create an [issue](https://github.com/snakypy/donations/issue
 
 ## Doação em BRL
 
-Para doação em moeda `brasileira`, acesse: [Donate BRL](https://github.com/snakypy/donations/blob/master/README-ptbr.md)
+Para doação em moeda `brasileira`, acesse: [Doação BRL](https://github.com/snakypy/donations/blob/master/README-ptbr.md)
 
 ---------------------------------------
 Thank you just for being here. :smiley:
