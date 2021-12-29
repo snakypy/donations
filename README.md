@@ -9,6 +9,7 @@ You can choose one of the shapes below:
   <thead>
     <tr>
       <th>Using PayPal (USD)</th>
+      <th>Bitcoin</th>
     </tr>
   </thead>
   <tbody>
@@ -17,6 +18,9 @@ You can choose one of the shapes below:
         <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YBK2HEEYG8V5W&source" target="_blank">
           <img src="https://raw.githubusercontent.com/snakypy/donations/master/svg/banks/paypal.svg" alt="PayPal Donation"
         </a>
+      </td>
+      <td>
+        <p>bc1qeetznlmqpjxguv3uh3qffvsvpfgwm2ezg85mgt</p>
       </td>
    </tr>
   </tbody>
