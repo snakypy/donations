@@ -16,11 +16,12 @@ You can choose one of the shapes below:
     <tr>
       <td>
         <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YBK2HEEYG8V5W&source" target="_blank">
-          <img src="https://raw.githubusercontent.com/snakypy/donations/master/svg/banks/paypal.svg" alt="PayPal Donation"
+          <img src="https://raw.githubusercontent.com/snakypy/donations/main/svg/banks/paypal.svg" alt="PayPal Donation"/>
         </a>
       </td>
-      <td>
+      <td> 
         <p>bc1qeetznlmqpjxguv3uh3qffvsvpfgwm2ezg85mgt</p>
+        <p>Click <a href="https://raw.githubusercontent.com/snakypy/donations/main/images/qrcode_btc.png" target="_blank">here</a> to use with QR Code</p>
       </td>
    </tr>
   </tbody>
