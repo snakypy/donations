@@ -9,7 +9,7 @@ You can choose one of the shapes below:
   <thead>
     <tr>
       <th>Using PayPal (USD)</th>
-      <th>Bitcoin</th>
+      <th>Bitcoin Address</th>
     </tr>
   </thead>
   <tbody>
@@ -20,10 +20,16 @@ You can choose one of the shapes below:
         </a>
       </td>
       <td> 
-        <p>bc1qeetznlmqpjxguv3uh3qffvsvpfgwm2ezg85mgt</p>
-        <p>Click <a href="https://raw.githubusercontent.com/snakypy/donations/main/images/qrcode_btc.png" target="_blank">here</a> to use with QR Code</p>
+        <p align="center"> bc1qeetznlmqpjxguv3uh3qffvsvpfgwm2ezg85mgt</p>
       </td>
    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>
+      <p align="center">Click <a href="https://raw.githubusercontent.com/snakypy/donations/main/images/qrcode_btc.png" target="_blank">here</a> to donate with QR Code</p>
+      </td>
+    </tr>
   </tbody>
 </table>
 </div>
