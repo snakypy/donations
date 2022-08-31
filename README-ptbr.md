@@ -8,8 +8,9 @@ Você pode escolher uma das formas abaixo clicando na imagem:
 <table border="1">
   <thead>
     <tr>
-      <th>Usando PicPay (BRL)</th>
-      <th>Usando Nubank (BRL)</th>
+      <th>Usando app PicPay (BRL)</th>
+      <th>Usando app Nubank (BRL)</th>
+      <th>Usando PIX (BRL)</th>
     </tr>
   </thead>
   <tbody>
@@ -23,6 +24,9 @@ Você pode escolher uma das formas abaixo clicando na imagem:
         <a href="https://nubank.com.br/pagar/4hzmr/HNn2g3w1TI" target="_blank">
           <img width="auto" height="60" src="https://raw.githubusercontent.com/snakypy/donations/master/svg/banks/nubank.svg" alt="Nubank Donation">
        </a>
+     </td>
+     <td>
+          <p align="center"> <strong>Chave PIX:</strong><br/> ddc86c0a-eceb-4856-a9d5-951a9825a589</p>
      </td>
     <tr>
       <td>Não têm? <a href="https://www.picpay.com/convite?PF4BCW" target="_blank">Crie</a> e receba R$ 10.</td>
