@@ -15,12 +15,12 @@ Você pode escolher uma das formas abaixo clicando na imagem:
   </thead>
   <tbody>
     <tr>
-      <td>
+      <td align="center">
         <a href="https://app.picpay.com/user/williamcanin" target="_blank">
           <img width="120" height="40" src="https://raw.githubusercontent.com/snakypy/donations/master/svg/banks/picpay.svg" alt="PicPay Donation">
        </a>
      </td>
-     <td>
+     <td align="center">
         <a href="https://nubank.com.br/pagar/4hzmr/HNn2g3w1TI" target="_blank">
           <img width="auto" height="60" src="https://raw.githubusercontent.com/snakypy/donations/master/svg/banks/nubank.svg" alt="Nubank Donation">
        </a>
