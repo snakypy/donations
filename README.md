@@ -23,13 +23,13 @@ You can choose one of the shapes below:
         <p align="center"> bc1qeetznlmqpjxguv3uh3qffvsvpfgwm2ezg85mgt</p>
       </td>
    </tr>
-    <tr>
+    <!-- <tr>
       <td>
       </td>
       <td>
       <p align="center">Click <a href="https://raw.githubusercontent.com/snakypy/donations/main/images/qrcode_btc.png" target="_blank">here</a> to donate with QR Code</p>
       </td>
-    </tr>
+    </tr> -->
   </tbody>
 </table>
 </div>
